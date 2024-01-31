@@ -2,12 +2,3 @@
 # WebApps-F24-Assignment-3
 Assignment 3 - Basic HTML
 
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-    <h2>Hosted at</h2>
-    <a href="https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment3-Sushma-362/settings/pages"></a>
-
-</body>
-</html>
